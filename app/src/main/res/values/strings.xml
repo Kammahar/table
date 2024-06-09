@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyTable</string>
+    <string name="col1">Name</string>
+    <string name="col2">Phone Number</string>
+    <string name="col3">Address</string>
+    <string name="row1Name">Ali</string>
+    <string name="row1Age">923170009573</string>
+    <string name="row1Address">Gulshan e iqbal</string>
+    <string name="row2Name">Dave</string>
+    <string name="row2Age">45</string>
+    <string name="row2Surname">Smith</string>
+    <string name="row3Name">Jason</string>
+    <string name="row3Age">67</string>
+    <string name="row3Surname">William</string>
+</resources>
